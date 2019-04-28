@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* GITHUB starter Project for learning about GIT.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Enables user to practice about git hub contributions.
 
 ## Getting started
 
